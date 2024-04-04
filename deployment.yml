@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: mon-app
-          image: ranimmbarek/mon-app:latest
+          image: ranimmbarek/nodejs-app:latest
           ports:
             - containerPort: 80
 
