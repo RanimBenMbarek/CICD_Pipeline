@@ -1,19 +1,19 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: mon-app
+  name: nodejs-app
 spec:
   replicas:  2
   selector:
     matchLabels:
-      app: mon-app
+      app: nodejs-app
   template:
     metadata:
       labels:
-        app: mon-app
+        app: nodejs-app
     spec:
       containers:
-        - name: mon-app
+        - name: nodejs-app
           image: ranimmbarek/nodejs-app:latest
           ports:
             - containerPort: 80
