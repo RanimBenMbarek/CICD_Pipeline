@@ -17,4 +17,3 @@ spec:
           image: ranimmbarek/nodejs-app:latest
           ports:
             - containerPort: 80
-
