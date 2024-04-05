@@ -4,14 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed0f0e5f-6786-4c8a-b3e7-0ce622d7349d" name="Changes" comment="config" />
+    <list default="true" id="ed0f0e5f-6786-4c8a-b3e7-0ce622d7349d" name="Changes" comment="config">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -71,7 +73,7 @@
       <workItem from="1712000624429" duration="16122000" />
       <workItem from="1712244750661" duration="1902000" />
       <workItem from="1712247275892" duration="878000" />
-      <workItem from="1712258401165" duration="19000" />
+      <workItem from="1712258401165" duration="3650000" />
     </task>
     <task id="LOCAL-00001" summary="config">
       <created>1712246002747</created>
@@ -87,7 +89,35 @@
       <option name="project" value="LOCAL" />
       <updated>1712247054610</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="config">
+      <created>1712274820993</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712274820993</updated>
+    </task>
+    <task id="LOCAL-00004" summary="config">
+      <created>1712274951013</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712274951013</updated>
+    </task>
+    <task id="LOCAL-00005" summary="config">
+      <created>1712275020732</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712275020732</updated>
+    </task>
+    <task id="LOCAL-00006" summary="config">
+      <created>1712275205533</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1712275205533</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
